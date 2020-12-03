@@ -20,7 +20,7 @@ $ yarn
 
 ## Important
 
-1-) The fields in the [typeormconfig file](./config/typeormconfig.ts) should be changed with the installed PostgreSQL credentials
+1-) The fields in the [typeormconfig file](./src/config/typeormconfig.ts) should be changed with the installed PostgreSQL credentials
 
 2-) To create dummy data, please use the **createdummydata**
 
